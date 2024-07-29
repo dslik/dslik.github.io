@@ -2,7 +2,7 @@ Welcome to my open source and personal projects site. Most of my projects are ba
 
 Some highlights include:
 
-**[Protonema](https://www.github.com/dslik/protonema/)** - The electronics protoyping and learning system I wish I had back when I was in university. Experiment with digital and analogue electronics using easy-to-assemble building blocks, and add your own!
+**[Protonema](https://github.com/dslik/protonema/)** - The electronics protoyping and learning system I wish I had back when I was in university. Experiment with digital and analogue electronics using easy-to-assemble building blocks, and add your own!
 
 Shown below are three different baseboards with various "stamps" that can be wired together. On the left is a Pi Pico stamp driving a stepper motor, in the center is a temperature sensor on a breadboard stamp, with a Pi Pico stamp connected to a LED display and a SD card for data logging, and on the right is a larger breadboard stamp and a few adapter stamps:
 
@@ -10,7 +10,7 @@ Shown below are three different baseboards with various "stamps" that can be wir
 
 <hr>
 
-**[Nanomia](https://www.github.com/dslik/protonema/)** - My Eurorack modular synth modules. Most of these are utility modules.
+**[Nanomia](https://github.com/dslik/nanomia/)** - My Eurorack modular synth modules. Most of these are utility modules.
 
 Shown below is my power meter (left), step sequencer (center), and power supply (right) modules:
 
